@@ -1,0 +1,1 @@
+the types of calls for 3rd party api.
